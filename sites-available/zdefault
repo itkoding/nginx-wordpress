@@ -1,0 +1,9 @@
+# Default server configuration
+# Fallback atau default server block
+server {
+	listen 80 default_server;
+	listen 443 ssl http2 default_server;
+	server_name _;
+	return 404;
+	include /etc/nginx/snippets/ssl/filessl_namadomain.conf;
+}
