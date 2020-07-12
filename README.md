@@ -1,7 +1,7 @@
 
 # Konfigurasi Nginx Untuk Wordpress
 
-Template konfigurasi web server Nginx untuk CMS Wordpress versi terbaru dengan fitur yang teroptimasi untuk melengkapi tutorial di [ITKoding](https://itkoding.com/).
+Template konfigurasi web server Nginx untuk CMS Wordpress versi terbaru dengan fitur yang teroptimasi.
 
 ## Fitur
 
