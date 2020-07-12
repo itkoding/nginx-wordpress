@@ -44,7 +44,6 @@ Langkah #1 - Install Wordpress dengan Nginx, PHP7.4-FPM dan MariaDB (LEMP).
 
 Untuk cara lengkapnya silahkan baca pada tutorial yang saya tulis dengan tema [Cara Install Wordpress di VPS Ubuntu](https://itkoding.com/cara-install-wordpress-di-vps-ubuntu/).
 
-
 Langkah #2 - Copy dan Paste semua file konfigurasi di Repo ini.
 
 Copy semua file beserta folder dari repositori di Github ini lalu tempatkan pada /etc/nginx/.
